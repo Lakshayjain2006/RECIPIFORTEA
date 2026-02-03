@@ -1,0 +1,38 @@
+h1{
+    color: rgb(213, 113, 26);
+}
+list{
+    color: chartreuse;
+    background-color: rgb(17, 237, 72);
+}
+body{
+    background-color:rgb(171, 102, 211) ;
+}
+h3{
+    color: rgb(97, 201, 175);
+
+}
+section{
+    color: rgb(73, 234, 15);
+    
+}
+pre{
+ color: rgb(115, 192, 111);
+}
+header{
+    background-color: cornflowerblue;
+}
+footer{
+    background-color: darkslateblue;
+}
+main{
+    background-color: rgb(160, 19, 137);
+}
+button{
+    color: chocolate;
+    background-color: rgb(186, 186, 42);
+}
+h6{
+    color: darkkhaki;
+    background-color: black;
+}
