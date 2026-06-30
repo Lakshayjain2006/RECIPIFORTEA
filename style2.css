@@ -19,6 +19,7 @@
 list{
     color: chartreuse;
     background-color: rgb(17, 237, 72);
+    font-style: italic;
 }
 body{
     background-color:rgb(34, 235, 67) ;
